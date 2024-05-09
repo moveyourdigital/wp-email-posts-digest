@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mailerlite Latest Posts 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-email-posts-digest\n"
+"POT-Creation-Date: 2024-06-05T19:37:33+00:00\n"
+"PO-Revision-Date: 2024-06-06 00:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Domain: mailerlite-latest-posts\n"
+
+#. Plugin Name of the plugin
+msgid "Email Posts Digest"
+msgstr "Resumo de Publicações por Email"
+
+#. Plugin URI of the plugin
+msgid "https://github.com/moveyourdigital/wp-email-posts-digest"
+msgstr "https://github.com/moveyourdigital/wp-email-posts-digest"
+
+#. Description of the plugin
+msgid "Automatically send summarized updates of your latest WordPress posts to all registered users."
+msgstr "Envie automaticamente atualizações resumidas dos seus posts mais recentes no WordPress para todos os utilizadores registados."
+
+#. Author of the plugin
+msgid "Move Your Digital, Inc."
+msgstr "Move Your Digital, Inc."
+
+#. Author URI of the plugin
+msgid "https://moveyourdigital.com"
+msgstr "https://moveyourdigital.com"
+
+#: inc/admin.php:78
+msgid "Email digests show the most recent"
+msgstr "Os resumos por email mostram os mais recentes"
+
+#: inc/admin.php:108
+msgid "Posts digest browser view"
+msgstr "Visualização de resumos de posts no navegador"
+
+#: inc/admin.php:112
+msgid "Enable browser view, templating and statistics."
+msgstr "Ative a visualização no navegador, a criação de templates e as estatísticas."
+
+#: inc/admin.php:129
+msgid "Posts digest base"
+msgstr "Base de resumos de posts"
+
+#: inc/admin.php:155
+msgid "Digest subscriptions"
+msgstr "Assinaturas de resumos"
+
+#: inc/admin.php:164 inc/general.php:146
+msgid "Receive posts digest regularly via e-mail."
+msgstr "Receba resumos de posts regularmente por e-mail."
+
+#. translators: Posts digest subject. %s: Site title.
+#: inc/functions.php:233
+msgid "[%s] Posts Digest"
+msgstr "[%s] Resumo de Posts"
+
+#: inc/general.php:119
+msgid "Digest preferences updated"
+msgstr "Preferências de resumo atualizadas"
+
+#: inc/general.php:122
+msgid "Subscriptions options."
+msgstr "Opções de Subscrição."
+
+#: inc/general.php:135
+msgid "Subscriptions options"
+msgstr "Opções de Subscrição"
+
+#: inc/general.php:139
+msgid "Please, tick or untick the following subscription preferences to update."
+msgstr "Por favor, selecione ou desselecione as seguintes preferências de subscrição para atualizar."

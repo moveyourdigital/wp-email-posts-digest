@@ -1,0 +1,81 @@
+# Copyright (C) 2024 Move Your Digital, Inc.
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Posts Digest 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-email-posts-digest\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-06-05T23:15:53+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: email-posts-digest\n"
+
+#. Plugin Name of the plugin
+msgid "Email Posts Digest"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/moveyourdigital/wp-email-posts-digest"
+msgstr ""
+
+#. Description of the plugin
+msgid "Automatically send summarized updates of your latest WordPress posts to all registered users."
+msgstr ""
+
+#. Author of the plugin
+msgid "Move Your Digital, Inc."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://moveyourdigital.com"
+msgstr ""
+
+#: inc/admin.php:78
+msgid "Email digests show the most recent"
+msgstr ""
+
+#: inc/admin.php:108
+msgid "Posts digest browser view"
+msgstr ""
+
+#: inc/admin.php:112
+msgid "Enable browser view, templating and statistics."
+msgstr ""
+
+#: inc/admin.php:129
+msgid "Posts digest base"
+msgstr ""
+
+#: inc/admin.php:155
+msgid "Digest subscriptions"
+msgstr ""
+
+#: inc/admin.php:164
+#: inc/general.php:146
+msgid "Receive posts digest regularly via e-mail."
+msgstr ""
+
+#. translators: Posts digest subject. %s: Site title.
+#: inc/functions.php:233
+msgid "[%s] Posts Digest"
+msgstr ""
+
+#: inc/general.php:119
+msgid "Digest preferences updated"
+msgstr ""
+
+#: inc/general.php:122
+msgid "Subscriptions options."
+msgstr ""
+
+#: inc/general.php:135
+msgid "Subscriptions options"
+msgstr ""
+
+#: inc/general.php:139
+msgid "Please, tick or untick the following subscription preferences to update."
+msgstr ""

@@ -1,0 +1,24 @@
+{
+  "name": "moveyourdigital/wp-email-posts-digest",
+  "description": "Automatically send summarized updates of your latest WordPress posts to all registered users.",
+  "homepage": "https://github.com/moveyourdigital/wp-email-posts-digest",
+  "keywords": [
+    "wordpress"
+  ],
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Move Your Digital, Inc.",
+      "email": "engineering@moveyourdigital.com",
+      "homepage": "https://moveyourdigital.com/"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/moveyourdigital/wp-email-posts-digest/issues",
+    "source": "https://github.com/moveyourdigital/wp-email-posts-digest"
+  },
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
