@@ -28,7 +28,7 @@ function get_digest_query( $action, $date = null ) {
 			}
 
 			$query = array(
-				'date_query' => array(
+				'date_query'     => array(
 					'after'     => $since_date,
 					'inclusive' => true,
 				),
@@ -40,6 +40,7 @@ function get_digest_query( $action, $date = null ) {
 						'compare' => 'NOT EXISTS',
 					),
 				),
+				'posts_per_page' => $posts_per_page,
 			);
 			break;
 

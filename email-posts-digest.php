@@ -3,7 +3,7 @@
  * Plugin Name:     Email Posts Digest
  * Plugin URI:      https://github.com/moveyourdigital/wp-email-posts-digest
  * Description:     Automatically send summarized updates of your latest WordPress posts to all registered users.
- * Version:         0.1.0
+ * Version:         0.1.1
  * Requires PHP:    7.3
  * Author:          Move Your Digital, Inc.
  * Author URI:      https://moveyourdigital.com
