@@ -29,7 +29,8 @@ function get_digest_query( $action, $date = null ) {
 
 			$query = array(
 				'date_query' => array(
-					'after' => $since_date,
+					'after'     => $since_date,
+					'inclusive' => true,
 				),
 				// phpcs:ignore
 				'meta_query' => array(
